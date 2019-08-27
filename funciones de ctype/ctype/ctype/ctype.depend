@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1566580139 source:c:\users\axelc\desktop\progra-2019\funciones de ctype\ctype\ctype\ctype.c
+	"ctype.h"
+
+1566582758 c:\users\axelc\desktop\progra-2019\funciones de ctype\ctype\ctype\ctype.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1566580154 source:c:\users\axelc\desktop\progra-2019\funciones de ctype\ctype\ctype\main.c
+	"ctype.h"
+
