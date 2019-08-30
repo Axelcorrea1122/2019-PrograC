@@ -1,12 +1,12 @@
 # depslib dependency file v1.0
-1566847964 source:e:\2do cuatri progra\progra-2019\trabajo practico 1\math\funciones matematicas\math.c
+1566925226 source:e:\2do cuatri progra\progra-2019\trabajo practico 1\math\funciones matematicas\math.c
 	"math.h"
 
-1566788220 e:\2do cuatri progra\progra-2019\trabajo practico 1\math\funciones matematicas\math.h
+1566925104 e:\2do cuatri progra\progra-2019\trabajo practico 1\math\funciones matematicas\math.h
 	<stdio.h>
 	<stdlib.h>
 	<math.h>
 
-1566846806 source:e:\2do cuatri progra\progra-2019\trabajo practico 1\math\funciones matematicas\main.c
+1566925104 source:e:\2do cuatri progra\progra-2019\trabajo practico 1\math\funciones matematicas\main.c
 	"math.h"
 

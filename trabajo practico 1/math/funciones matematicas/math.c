@@ -85,3 +85,31 @@ float seno_de_x(float n, float tol)
     }
     return result;
 }
+// DEVUEL 0 SI ES PERFECTO 1 SI ES ABUNDANTE Y -1 SI ES DEFICIENTE
+int es_PDA(int n)
+{
+    int i = 1, sum=0;
+
+    while( i<n ){
+        if( n%i==0 ){
+            sum += i;
+        }
+        i++;
+    }
+    if(sum == n)
+        return 0;
+    return sum<n ? -1 : 1;
+}
+
+
+int producto(int n1, int n2)
+{
+    if( n1 == 0 || n2 == 0)
+        return 0;
+    int sum = 0;
+    int i;
+    for( i=1 ; i<=n2 ; i++ ){
+        sum = sum + n1;
+    }
+    return sum;
+}

@@ -11,5 +11,7 @@ float e_elevado_x(int n, float tol);
 float raiz_cuadrada( int n, float tol);
 int es_fibonacci(int n);
 float seno_de_x(float n, float tol);
+int es_PDA(int n);
+int producto(int n1, int n2);
 
 #endif // MATH_H_INCLUDED

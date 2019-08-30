@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1567196602 source:e:\2do cuatri progra\progra-2019\trabajo practico 1\funcionesdevectores\main.c
+	<stdio.h>
+	<stdlib.h>
+	"vector.h"
+
+1567196454 e:\2do cuatri progra\progra-2019\trabajo practico 1\funcionesdevectores\vector.h
+
+1567196568 source:e:\2do cuatri progra\progra-2019\trabajo practico 1\funcionesdevectores\vector.c
+	"vector.h"
+	<stdio.h>
+	<stdlib.h>
+
