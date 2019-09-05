@@ -1,20 +1,29 @@
 # depslib dependency file v1.0
-1567646770 source:e:\2do cuatri progra\progra-2019\trabajo practico 2\atoi_itoa\atoi_itoa.c
+1567694242 source:e:\2do cuatri progra\progra-2019\trabajo practico 2\atoi_itoa\atoi_itoa.c
 	"atoi_itoa.h"
 
-1567646034 e:\2do cuatri progra\progra-2019\trabajo practico 2\atoi_itoa\atoi_itoa.h
+1567694242 e:\2do cuatri progra\progra-2019\trabajo practico 2\atoi_itoa\atoi_itoa.h
 	<stdio.h>
 	<stdlib.h>
 	"ctype.h"
+	"strings.h"
 
-1567646686 source:e:\2do cuatri progra\progra-2019\trabajo practico 2\atoi_itoa\main.c
+1567694146 source:e:\2do cuatri progra\progra-2019\trabajo practico 2\atoi_itoa\main.c
 	"atoi_itoa.h"
 
-1566582760 e:\2do cuatri progra\progra-2019\trabajo practico 2\atoi_itoa\ctype.h
+1567694242 e:\2do cuatri progra\progra-2019\trabajo practico 2\atoi_itoa\ctype.h
 	<stdio.h>
 	<stdlib.h>
 	<ctype.h>
 
-1566582760 source:e:\2do cuatri progra\progra-2019\trabajo practico 2\atoi_itoa\ctype.c
+1567694242 source:e:\2do cuatri progra\progra-2019\trabajo practico 2\atoi_itoa\ctype.c
 	"ctype.h"
+
+1567649626 e:\2do cuatri progra\progra-2019\trabajo practico 2\atoi_itoa\strings.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1567649946 source:e:\2do cuatri progra\progra-2019\trabajo practico 2\atoi_itoa\strings.c
+	"strings.h"
 

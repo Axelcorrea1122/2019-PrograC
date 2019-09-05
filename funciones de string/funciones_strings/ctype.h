@@ -15,7 +15,7 @@ int is_print(int c);
 int is_punct(int c);
 int is_space(int c);
 int is_upper(int c);
-int to_ascii(long long c);
+int to_ascii(int c);
 int to_lower(int ch);
 int to_upper(int ch);
 #endif // CTYPE_H_INCLUDED

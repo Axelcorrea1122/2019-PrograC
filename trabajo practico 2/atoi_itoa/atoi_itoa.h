@@ -4,9 +4,11 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include "ctype.h"
+#include "strings.h"
 
 int mi_atoi(char *vec);
-char* mi_itoa(char *vec,int n, int base);
+char* mi_itoa(char *vec,long long n, int base);
+char* invertir_cadena(char *vec);
 
 
 #endif // ATOI_ITOA_H_INCLUDED

@@ -20,7 +20,7 @@ int mi_atoi(char *vec)
     return esNegativo ? acum*(-1) : acum;
 }
 
-char* mi_itoa(char * vec, int n, int base)
+char* mi_itoa(char * vec, long long n, int base)
 {
     char *p = vec;
     int esNegativo = 0;
@@ -30,11 +30,11 @@ char* mi_itoa(char * vec, int n, int base)
         esNegativo = 1;
         n = abs(n);
     }
-    while(n>base) {
-        car = toascii(n%base);
+    while(n>0) {
+        car = to_ascii(n%base);
         *p = car;
         n /= base;
-        p++;
+        p++;0
     }
 
     if(esNegativo){
@@ -43,9 +43,23 @@ char* mi_itoa(char * vec, int n, int base)
     }
     *p = '\0';
 
-
-    return p;
-
+    invertir_cadena(vec);
+    return vec;
 }
 
 
+
+char* invertir_cadena(char *vec)
+{
+    int c = mi_strlen(vec), aux;
+    char *ult = vec + (c-1) , *pri = vec;
+
+    while(pri<ult){
+        aux = *pri;
+        *pri = *ult;
+        *ult = aux;
+        pri++;
+        ult--;
+    }
+    return vec;
+}

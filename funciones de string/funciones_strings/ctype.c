@@ -65,11 +65,9 @@ int is_xdigit(int c)
     return is_digit(c) || is_alpha(c) ? 1:0;
 }
 
-int to_ascii(long long c)
+int to_ascii(int c)
 {
-    if(c>=10)
-        return 'A' + (c-10);
-    return c >= 0 && c<=9 ? c + '0' : c;
+    return c>='0' && c<='9' ? c + '0' : c;
 }
 
 int to_lower(int ch)

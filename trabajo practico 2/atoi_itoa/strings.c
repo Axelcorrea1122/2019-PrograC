@@ -38,9 +38,9 @@ char* mi_strchr(char *cad, char c)
 
 int mi_strcmp(char *cad, char* cad2)
 {
-    int cmp;
-    while(*cad && cad2){
-        cmp = to_upper(*cad) - to_upper(*cad2);
+    int c = 0, cmp;
+    while(*cad && *cad2){
+        cmp = *cad - *cad2;
         if(cmp == 0){
             cad++;
             cad2++;

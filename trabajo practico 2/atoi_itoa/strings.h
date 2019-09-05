@@ -3,7 +3,7 @@
 
 #include <stdio.h>
 #include <stdlib.h>
-#include "ctype.h"
+#include <ctype.h>
 
 int mi_strlen(char *cad);
 char* mi_strcat( char *cad, char *cad2);

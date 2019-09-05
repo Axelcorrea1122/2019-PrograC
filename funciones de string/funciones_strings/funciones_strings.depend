@@ -1,11 +1,20 @@
 # depslib dependency file v1.0
-1567649020 source:e:\2do cuatri progra\progra-2019\funciones de string\funciones_strings\main.c
+1567696248 source:e:\2do cuatri progra\progra-2019\funciones de string\funciones_strings\main.c
 	"strings.h"
 
-1567648964 e:\2do cuatri progra\progra-2019\funciones de string\funciones_strings\strings.h
+1567696170 e:\2do cuatri progra\progra-2019\funciones de string\funciones_strings\strings.h
 	<stdio.h>
 	<stdlib.h>
+	"ctype.h"
 
-1567648976 source:e:\2do cuatri progra\progra-2019\funciones de string\funciones_strings\strings.c
+1567696398 source:e:\2do cuatri progra\progra-2019\funciones de string\funciones_strings\strings.c
 	"strings.h"
+
+1566582760 e:\2do cuatri progra\progra-2019\funciones de string\funciones_strings\ctype.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1567696170 source:e:\2do cuatri progra\progra-2019\funciones de string\funciones_strings\ctype.c
+	"ctype.h"
 
