@@ -2,27 +2,27 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int insertar_en_vector_pos(int vec[], int ce,int elem, int pos)
+int insertar_en_vector_pos(int* vec, int ce,int elem, int pos)
 {
-    if(pos > ce)
+    if(ce <= pos)
         return -1;
-
-    int i=ce-1;
-    int aux;
-    while(i>=pos){
-        aux = vec[i];
-        vec[i+1] = aux;
-        i--;
+        int aux;
+    int* act = vec + (ce - 1);
+    while(act >= vec + (pos - 1)){
+        aux = *act;
+        *(act+1) = aux;
+        act--;
     }
-    vec[pos] = elem;
+    *(vec+pos-1) = elem;
     return ce+1;
 }
 
 
-int insertar_en_vector_asc(int vec[], int ce, int elem)
+int insertar_en_vector_asc(int* vec, int ce, int elem)
 {
-    int dato = elem, i=0, sig;
-    while(i<ce && vec[i]<elem)
+    int dato = elem, sig;
+    int* act = vec;
+    while(act<vec + (ce-1) && *act<elem)
         i++;
     ce++;
     while(i<ce){
@@ -36,15 +36,15 @@ int insertar_en_vector_asc(int vec[], int ce, int elem)
 }
 
 
-int eliminar_por_pos_vec(int vec[], int ce, int pos){
+int eliminar_por_pos_vec(int vec, int ce, int pos){
 
     if(pos > ce)
         return 1;
-    int i = pos-1, sig;
-    while(i<ce-1){
-        sig = vec[i+1];
-        vec[i] = sig;
-        i++;
+    int* act = vec +(pos-1), sig;
+    while(act<=vec+(ce-1)){
+        sig = *(act+1);
+        *act = sig;
+        act++;
     }
     return ce-1;
 }
