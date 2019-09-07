@@ -1,8 +1,8 @@
 # depslib dependency file v1.0
-1567694242 source:e:\2do cuatri progra\progra-2019\trabajo practico 2\atoi_itoa\atoi_itoa.c
+1567808514 source:e:\2do cuatri progra\progra-2019\trabajo practico 2\atoi_itoa\atoi_itoa.c
 	"atoi_itoa.h"
 
-1567694242 e:\2do cuatri progra\progra-2019\trabajo practico 2\atoi_itoa\atoi_itoa.h
+1567783214 e:\2do cuatri progra\progra-2019\trabajo practico 2\atoi_itoa\atoi_itoa.h
 	<stdio.h>
 	<stdlib.h>
 	"ctype.h"

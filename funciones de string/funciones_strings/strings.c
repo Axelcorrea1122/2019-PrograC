@@ -57,3 +57,38 @@ int mi_strcmp(char *cad, char* cad2)
 }
 
 
+
+int es_palindromo(char *cad, char *cad2)
+{
+    if(mi_strcmp(cad, invertir_cadena(cad2) == 0)
+        return 1;
+    else
+        return 0;
+}
+
+char* invertir_cadena(char *vec)
+{
+    int c = mi_strlen(vec), aux;
+    char *ult = vec + (c-1) , *pri = vec;
+
+    while(pri<ult){
+        aux = *pri;
+        *pri = *ult;
+        *ult = aux;
+        pri++;
+        ult--;
+    }
+    return vec;
+}
+
+
+char* mi_strcpy(char *cad, char *cad2)
+{
+    char *p =cad;
+    while(*cad2){
+        *p = *cad2;
+        p++;
+        cad2++;
+    }
+    return cad2;
+}

@@ -34,7 +34,7 @@ char* mi_itoa(char * vec, long long n, int base)
         car = to_ascii(n%base);
         *p = car;
         n /= base;
-        p++;0
+        p++;
     }
 
     if(esNegativo){

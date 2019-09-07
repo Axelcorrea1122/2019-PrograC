@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1567868256 source:e:\2do cuatri progra\progra-2019\trabajo practico 2\normalizar cadena\normalizar\main.c
+	"normalizar.h"
+
+1567816448 e:\2do cuatri progra\progra-2019\trabajo practico 2\normalizar cadena\normalizar\normalizar.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1567868116 source:e:\2do cuatri progra\progra-2019\trabajo practico 2\normalizar cadena\normalizar\normalizar.c
+	"normalizar.h"
+
