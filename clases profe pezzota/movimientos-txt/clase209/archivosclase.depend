@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1569026415 source:c:\users\laboratorios\desktop\clase20\archivosclase\archivo.c
+	"archivo.h"
+
+1569026370 c:\users\laboratorios\desktop\clase20\archivosclase\archivo.h
+	<stdio.h>
+
+1569026370 source:c:\users\laboratorios\desktop\clase20\archivosclase\main.c
+	"archivo.h"
+
+1569097973 source:c:\users\shovfullbuster\desktop\archivos-master\clase209\archivo.c
+	"archivo.h"
+
+1569095588 c:\users\shovfullbuster\desktop\archivos-master\clase209\archivo.h
+	<stdio.h>
+
+1569095739 source:c:\users\shovfullbuster\desktop\archivos-master\clase209\main.c
+	"archivo.h"
+
+1569369586 source:d:\download\archivos-master\clase209\archivo.c
+	"archivo.h"
+
+1569364822 d:\download\archivos-master\clase209\archivo.h
+	<stdio.h>
+
+1569364886 source:d:\download\archivos-master\clase209\main.c
+	"archivo.h"
+
