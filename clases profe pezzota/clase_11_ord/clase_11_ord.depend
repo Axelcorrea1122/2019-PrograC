@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1569628218 source:c:\users\axelc\desktop\clase_11_ord\main.c
+	<stdio.h>
+	<stdlib.h>
+

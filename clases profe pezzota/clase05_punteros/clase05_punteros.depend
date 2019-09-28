@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1567209830 source:c:\users\axelc\desktop\clase05_punteros\main.c
+	<stdio.h>
+	<stdlib.h>
+
