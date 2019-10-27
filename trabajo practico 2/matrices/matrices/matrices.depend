@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1568914118 source:e:\2do cuatri progra\progra-2019\trabajo practico 2\matrices\matrices\matrices.c
+	"matrices.h"
+
+1568914266 e:\2do cuatri progra\progra-2019\trabajo practico 2\matrices\matrices\matrices.h
+	<stdio.h>
+	<stdlib.h>
+
+1568914234 source:e:\2do cuatri progra\progra-2019\trabajo practico 2\matrices\matrices\main.c
+	"matrices.h"
+

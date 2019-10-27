@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1570394876 source:e:\correa axel\1er-parcial-2019-1-ej2\cola.c
+	<Cola.h>
+
+1563157970 e:\correa axel\include\cola.h
+	<Defs.h>
+	<Tipos.h>
+
+1563157970 e:\correa axel\include\defs.h
+
+1563157970 e:\correa axel\include\tipos.h
+
+1570394876 source:e:\correa axel\1er-parcial-2019-1-ej2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<Tipos.h>
+	<Cola.h>
+	<Utilitarias.h>
+	<string.h>
+
+1563157970 e:\correa axel\include\utilitarias.h
+
+1570838740 source:f:\correa axel\1er-parcial-2019-1-ej2\cola.c
+	<Cola.h>
+
+1570838724 f:\correa axel\include\cola.h
+	<Defs.h>
+	<Tipos.h>
+	<stdlib.h>
+
+1563157970 f:\correa axel\include\defs.h
+
+1563157970 f:\correa axel\include\tipos.h
+
+1570838826 source:f:\correa axel\1er-parcial-2019-1-ej2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<Tipos.h>
+	<Cola.h>
+	<Utilitarias.h>
+	<string.h>
+
+1563157970 f:\correa axel\include\utilitarias.h
+

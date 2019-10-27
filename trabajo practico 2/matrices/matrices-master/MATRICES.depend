@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1567984698 source:c:\users\lara\desktop\progra\matrices\matriz.c
+	"matriz.h"
+
+1567984690 c:\users\lara\desktop\progra\matrices\matriz.h
+	<stdio.h>
+
+1567984310 source:c:\users\lara\desktop\progra\matrices\main.c
+	"matriz.h"
+

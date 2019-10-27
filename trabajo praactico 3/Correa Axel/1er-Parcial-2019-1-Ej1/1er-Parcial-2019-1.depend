@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1563157966 source:c:\users\laboratorio\desktop\correa axel\1er-parcial-2019-1-ej1\cadena.c
+	<Cadena.h>
+
+1563157970 c:\users\laboratorio\desktop\correa axel\include\cadena.h
+
+1563157966 source:c:\users\laboratorio\desktop\correa axel\1er-parcial-2019-1-ej1\main.c
+	<stdio.h>
+	<string.h>
+	<Cadena.h>
+
+1570379436 source:e:\correa axel\1er-parcial-2019-1-ej1\cadena.c
+	<Cadena.h>
+	<string.h>
+
+1563157970 e:\correa axel\include\cadena.h
+
+1570374508 source:e:\correa axel\1er-parcial-2019-1-ej1\main.c
+	<stdio.h>
+	<string.h>
+	<Cadena.h>
+
+1570379436 source:f:\correa axel\1er-parcial-2019-1-ej1\cadena.c
+	<Cadena.h>
+	<string.h>
+
+1563157970 f:\correa axel\include\cadena.h
+
+1570573046 source:f:\correa axel\1er-parcial-2019-1-ej1\main.c
+	<stdio.h>
+	<string.h>
+	<Cadena.h>
+

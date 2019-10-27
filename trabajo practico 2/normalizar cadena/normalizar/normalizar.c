@@ -68,3 +68,16 @@ void formatear_palabra(char *cad)
         cad++;
     }
 }
+
+
+char* normalizar2(char* cad)
+{
+    char *p = cad;
+
+    while(!isalpha(*p)){
+        p++;
+    }
+    formatear_palabra2(&p);
+}
+
+
