@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1569027043 source:c:\users\axelc\desktop\clase_10\main.c
+	"merge.h"
+
+1569026239 c:\users\axelc\desktop\clase_10\merge.h
+	<stdio.h>
+	<stdlib.h>
+
+1569027170 source:c:\users\axelc\desktop\clase_10\merge.c
+	"merge.h"
+

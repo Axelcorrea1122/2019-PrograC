@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1568680915 source:c:\users\shovfullbuster\desktop\universidad\programaci”n\archivos\ejercicio de la clase - ingresar alumno y actualizar ingreso\alumnos\archivos.c
+	"archivos.h"
+
+1568680753 c:\users\shovfullbuster\desktop\universidad\programaci”n\archivos\ejercicio de la clase - ingresar alumno y actualizar ingreso\alumnos\archivos.h
+	<stdio.h>
+
+1568678647 source:c:\users\shovfullbuster\desktop\universidad\programaci”n\archivos\ejercicio de la clase - ingresar alumno y actualizar ingreso\alumnos\main.c
+	"archivos.h"
+
+1568768541 source:c:\users\laboratorios\desktop\ingresar_alumnos\archivos.c
+	"archivos.h"
+
+1568768399 c:\users\laboratorios\desktop\ingresar_alumnos\archivos.h
+	<stdio.h>
+
+1568768433 source:c:\users\laboratorios\desktop\ingresar_alumnos\main.c
+	"archivos.h"
+
+1568846724 source:c:\users\shovfullbuster\desktop\universidad\programaci”n\archivos-master\ingresar_alumnos\main.c
+	"archivos.h"
+
+1568846724 c:\users\shovfullbuster\desktop\universidad\programaci”n\archivos-master\ingresar_alumnos\archivos.h
+	<stdio.h>
+	<string.h>
+
+1568847170 source:c:\users\shovfullbuster\desktop\universidad\programaci”n\archivos-master\ingresar_alumnos\archivos.c
+	"archivos.h"
+
+1569020892 source:c:\users\laboratorios\desktop\archivos-master\ingresar_alumnos\main.c
+	"archivos.h"
+
+1569020751 c:\users\laboratorios\desktop\archivos-master\ingresar_alumnos\archivos.h
+	<stdio.h>
+	<string.h>
+
+1569020955 source:c:\users\laboratorios\desktop\archivos-master\ingresar_alumnos\archivos.c
+	"archivos.h"
+
